@@ -1,3 +1,5 @@
+console.log("Curso TypeScript - #04 - Aprendendo sobre Type Inference em Typescript");
+
 let user: string;
 user = "WildRage"
 let energy:number

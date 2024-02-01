@@ -1,3 +1,5 @@
+console.log("Curso TypeScript - #05 - Aprendendo sobre UNION TYPES em Typescript");
+
 let vTest: string | number
 // let vTest: any
 

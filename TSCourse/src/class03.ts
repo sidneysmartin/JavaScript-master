@@ -1,3 +1,5 @@
+console.log("Curso TypeScript - #03 - Aprendendo sobre arquivos de configurações");
+
 class Course{
   instructor = null
   course = null
