@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #08 - Aprendendo sobre OBJECT em Typescript");
+// "Curso TypeScript - #08 - Aprendendo sobre OBJECT em Typescript"
 
 let dados={
   name:"Zend",

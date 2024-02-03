@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #01 - Preparando o ambiente para programar");
+//  "Curso TypeScript - #01 - Preparando o ambiente para programar" 
 
 // Declarando uma classe com um construtor e um método
 class Person{

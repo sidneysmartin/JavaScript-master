@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #13 - Arrow Function");
+// "Curso TypeScript - #13 - Arrow Function"
 const information = (txt: string = "..."): void => {
   console.log(txt);
 };

@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #06 - Aprendendo mais sobre Array e Readonly Array em Typescript");
+// "Curso TypeScript - #06 - Aprendendo mais sobre Array e Readonly Array em Typescript"
 
 // let numbers:number[] = [20,30,40]
 let numbers:Array<number> = [20,30,40]

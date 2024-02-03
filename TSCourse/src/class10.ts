@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #10 - Diferenças entre NULL,UNDEFINED e UNKNOWN em Typescript");
+// "Curso TypeScript - #10 - Diferenças entre NULL,UNDEFINED e UNKNOWN em Typescript"
 
 //NULL - tipo nulo
 let vName:string|null;

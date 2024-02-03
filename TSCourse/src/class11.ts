@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #11 - Type Assertion e Typecast");
+// "Curso TypeScript - #11 - Type Assertion e Typecast"
 let nValue: number;
 let sValue: string;
 let uValue: unknown;

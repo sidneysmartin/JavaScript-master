@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #08 - Aprendendo sobre ENUM em Typescript");
+// "Curso TypeScript - #08 - Aprendendo sobre ENUM em Typescript"
 enum days{
   domingo=0,
   segunda=1,

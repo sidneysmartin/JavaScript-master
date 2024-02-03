@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #12 - Aprendendo sobre funções");
+// "Curso TypeScript - #12 - Aprendendo sobre funções"
 
 function login(user: string, password: string): void {
   console.log(`Usuário...: ${user}`);

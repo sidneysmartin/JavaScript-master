@@ -1,4 +1,4 @@
-console.log("Curso TypeScript - #13 - Type Assertion e Typecast");
+// "Curso TypeScript - #13 - Type Assertion e Typecast"
 
 function calculate(n1: number = 0, n2: number = 0): number {
   return Math.pow(n1, n2);
