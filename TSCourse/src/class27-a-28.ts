@@ -1,4 +1,4 @@
-// "Curso TypeScript - #20 a 26 - Aprendendo sobre POO - Herança"
+// "Curso TypeScript - #27 a 28 - Aprendendo sobre Interface"
 interface Curso {
   titulo: string;
   des: string;

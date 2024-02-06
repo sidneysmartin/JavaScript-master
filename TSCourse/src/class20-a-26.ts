@@ -1,4 +1,4 @@
-// "Curso TypeScript - #20 a 26 - Aprendendo sobre POO - Herança"
+// "Curso TypeScript - #20 a 26 - Aprendendo sobre POO"
 
 //PUBLIC - Acessado de qualquer lugar
 //PRIVATE - Acessado somente na própria classe
