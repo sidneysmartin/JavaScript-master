@@ -48,11 +48,21 @@ abstract class Account {
   }
 }
 
-class businessAccount extends Account {
+interface Tax {
+  baseCalc: number;
+  CalculateTax(valTax: number): number;
+}
+
+class businessAccount extends Account implements Tax {
   CNPJ: number;
+  baseCalc: number = 12;
+
   constructor(CNPJ: number, holder: string) {
     super(holder);
     this.CNPJ = CNPJ;
+  }
+  CalculateTax(valTax: number): number {
+    return valTax * this.baseCalc;
   }
   info() {
     console.log("Conta..: PJ");
